@@ -1,4 +1,4 @@
-# Student-Information-System
+# Student Information System
 
 ### Course Class Features:
 - Attributes : name, prefix, note, verbalNote, courseTeacher
